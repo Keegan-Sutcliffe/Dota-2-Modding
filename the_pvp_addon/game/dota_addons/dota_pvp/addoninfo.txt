@@ -1,0 +1,5 @@
+"AddonInfo"
+{
+	maps			"dota_pvp dota_pvp_tiled"
+	"IsPlayable"	"0"
+}
